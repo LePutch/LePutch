@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="150" src="https://s5.gifyu.com/images/Si7V5.gif"  />
+  <img height="150" src="https://i.postimg.cc/tRdHSdXB/Logo-Perso.png"  />
 </div>
-
-###
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pucci-jeremy/" target="_blank">
